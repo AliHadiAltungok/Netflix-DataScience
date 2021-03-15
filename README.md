@@ -1,5 +1,5 @@
 # Netflix-Data Science
-Netflix Data aScience
+Netflix Data Science
 Veri ön işleme adımları gerçekleştirilip kategorik veriler sayısal veriye dönüştürüldü.
 Etkisiz olduğu düşünülen kolonların elemesi gerçekleştirildi.
 Backward eleminasyon gerçekleştirildi.
