@@ -1,6 +1,6 @@
-## Backward Elimination
-## Linear-MultiLinear(more column than one) Predict
-## sort and plot
+# Backward Elimination
+# Linear-MultiLinear(more column than one) Predict
+# sort and plot
 ## Polynomial Regression
 ## Scaler Ölçekleme
 ## Support Vector Regression
